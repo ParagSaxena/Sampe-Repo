@@ -6,5 +6,11 @@ namespace SampleRe.ViewModels
 {
     public class MainPageViewModel
     {
+
+
+        public void GetStudentsMarks()
+        {
+
+        }
     }
 }
