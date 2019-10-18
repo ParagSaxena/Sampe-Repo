@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe.UWP\\SampleRe.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe.UWP\\SampleRe.UWP.csproj",
       "projectName": "SampleRe.UWP",
-      "projectPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe.UWP\\SampleRe.UWP.csproj",
+      "projectPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe.UWP\\SampleRe.UWP.csproj",
       "packagesPath": "C:\\Users\\Algoworks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe\\SampleRe.csproj": {
-              "projectPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe\\SampleRe.csproj"
+            "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe\\SampleRe.csproj": {
+              "projectPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe\\SampleRe.csproj"
             }
           }
         }

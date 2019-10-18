@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe.iOS\\SampleRe.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe.iOS\\SampleRe.iOS.csproj",
       "projectName": "SampleRe.iOS",
-      "projectPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe.iOS\\SampleRe.iOS.csproj",
+      "projectPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe.iOS\\SampleRe.iOS.csproj",
       "packagesPath": "C:\\Users\\Algoworks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe\\SampleRe.csproj": {
-              "projectPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe\\SampleRe.csproj"
+            "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe\\SampleRe.csproj": {
+              "projectPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe\\SampleRe.csproj"
             }
           }
         }

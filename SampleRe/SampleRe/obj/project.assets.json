@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe\\SampleRe.csproj",
+      "projectUniqueName": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe\\SampleRe.csproj",
       "projectName": "SampleRe",
-      "projectPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe\\SampleRe.csproj",
+      "projectPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe\\SampleRe.csproj",
       "packagesPath": "C:\\Users\\Algoworks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Algoworks\\source\\repos\\SampleRe\\SampleRe\\SampleRe\\obj\\",
+      "outputPath": "C:\\Users\\Algoworks\\Source\\Repos\\Sampe-Repo\\SampleRe\\SampleRe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
