@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SampleRe.ViewModels;
 using Xamarin.Forms;
 
 namespace SampleRe
@@ -16,7 +17,7 @@ namespace SampleRe
 
         private void Button_OnClicked(object sender, EventArgs e)
         {
-            
+            (this.BindingContext as MainPageViewModel).GetStudentsMarks();
         }
     }
 }
